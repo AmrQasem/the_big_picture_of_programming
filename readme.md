@@ -4,12 +4,40 @@ This is a website that aims to gather the whole set of skills a software develop
 
 [Watch this video](https://www.youtube.com/watch?v=CJjZKha2aQY)
 
-## 1- the small box in the middle (programming)
-## 2- Libraries and technologies
-## 3- Tool chains
-## 4- Design Patterns
-## 5- Software Architectures
-## 6- OS Knowledge
-## 7- Git
-## 8- Development Methodologies
-## 9- Testing
+The first priority is for Arabic content, if not available with shitty quality then provide English content.
+
+## Programming (The small box in the middle)
+### Learn a programming language
+### OOP
+### Data Structures
+### Algorithms
+
+## Libraries and technologies
+### Mobile App Development
+### Web Development
+### Desktop Development
+### Game Development
+### Others
+
+## Tool chains
+
+## Design Patterns
+
+## Software Architectures
+
+## OS Knowledge
+### Basic User
+### Developer
+### System Administrator
+### DevOps
+
+## Git
+### Usage
+### Workflows
+
+## Development Methodologies
+### Agile Software Development
+### Test Driven Development (TDD)
+
+## Testing
+### Unit Testing
