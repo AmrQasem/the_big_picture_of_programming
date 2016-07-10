@@ -8,9 +8,19 @@ The first priority is for Arabic content, if not available with shitty quality t
 
 ## Programming (The small box in the middle)
 ### Learn a programming language
+  * [C++ by Faseela](https://faseelaedu.wordpress.com/cplusplus/)  
+  * [Python by Watermelon Jam](https://www.youtube.com/watch?v=vbqWgli_XN8&list=PLJID2v0IuzGxhBdNRxEWXVHzcJG1FkOSG)
+
 ### OOP
+  * [C++ by Faseela](https://faseelaedu.wordpress.com/oop/)
+  * [Java by Code Masry](http://codemasry.com/oop/jun13/videos/MJddRkYY88U)
+
 ### Data Structures
+  * [Code Masry](http://codemasry.com/ds/june13/videos/31oqfm1iStI)
+
 ### Algorithms
+  * [Java Code Masry](http://codemasry.com/alg/june13/videos/uLBMCOAq2js)
+
 
 ## Libraries and technologies
 ### Mobile App Development
